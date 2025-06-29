@@ -74,7 +74,7 @@ export const projects = [
   {
     id: 1,
     title: "Besew Online Hybrid Marketplace Mobile App",
-    des: "Discover the features of our innovative marketplace app, offering a seamless hybrid shopping experience.",
+    des: "Telemedicine platform delivering healthcare across Africa and globally.",
     img: "/besew.png",
     iconLists: [
       "/next.svg",
