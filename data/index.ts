@@ -300,7 +300,7 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/gitlab.svg",
     link: "https://gitlab.com/abrhamzewdu2119",
   },
   {
